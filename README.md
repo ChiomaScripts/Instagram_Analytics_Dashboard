@@ -5,9 +5,6 @@ This is a **fully interactive** dashboard built with `Streamlit`, `Pandas`, and 
 ## 🚀 Live Demo
 🔗 **[View Dashboard on Streamlit](https://instagramanalyticsdashboard-zzvx5s63mgq9mginug2z77.streamlit.app/)**
 
-## 📽️ Screencast Demo
-![Screencast Preview](YOUR_SCREENCAST_VIDEO_LINK_HERE)
-
 ## 📸 Screenshots
 ![Dashboard Overview](dashboard_snapshot1.png)
 ![Dashboard Overview](dashboard_snapshot2.png)
