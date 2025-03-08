@@ -8,7 +8,7 @@ from pathlib import Path
 st.set_page_config(layout="wide", page_title="Instagram Analytics Dashboard")
 
 # Load Excel Data
-file_path = Path.home() / "Downloads" / "Copy of Instagram_Analytics - DO NOT DELETE (for interview purposes).xlsx"
+file_path = Path.home() / "Downloads" / "Copy of Instagram_Analytics.xlsx"
 data = pd.read_excel(file_path, sheet_name=["Instagram Profile Overview", "Instagram Post Engagement", "Instagram Age Gender Demographi", "Instagram Top Cities Regions"])
 
 # Extracting Sheets
